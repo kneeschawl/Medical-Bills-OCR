@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+fastapi
+uvicorn
+requests
+python-multipart
